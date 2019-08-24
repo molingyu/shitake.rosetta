@@ -1,0 +1,10 @@
+{
+  "name": "shitake.rosetta",
+  "displayName": "Rosetta",
+  "version": "0.4.0",
+  "unity": "2018.1",
+  "description": "I18N in Unity3D made easy and automation. Full support for GNU GetText i18n workflow and Unity media files.",
+  "keywords": ["I18N", "Devtool"],
+  "dependencies": {
+  }
+}
